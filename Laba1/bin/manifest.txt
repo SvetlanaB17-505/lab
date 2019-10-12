@@ -1,0 +1,8 @@
+Main-Class: com.lab1.Main
+Class-Path: ../lib/commons-codec-1.8.jar
+
+
+
+
+
+
